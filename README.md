@@ -1,5 +1,5 @@
 # Adaptive and Sustainable Traffic Management System
-A project for BIT hackathon 
+A project for BIT hackathon [july 2024]
 
 ## Abstract:
 In urban environments, efficient traffic management is crucial for safety, convenience, and environmental sustainability. Our project aims to develop a smart traffic system that adapts to real-time conditions and enhances road safety through several innovative features:
