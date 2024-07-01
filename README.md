@@ -20,3 +20,8 @@ Our adaptive and sustainable traffic management system not only improves traffic
 
 ### Keywords: 
 Smart Traffic System, Adaptive Traffic Lights, Ambulance Priority, Energy Harvesting, Vehicle Weight Monitoring, Environmental Monitoring, ESP-NOW, Urban Transportation.
+
+### Contributors
+- [Manjunath vasista @vasista0006](https://github.com/vasista0006)
+- [Vibha shrestta @Vibhashrestta](https://github.com/Vibhashrestta)
+- [Dhruthi MD @username](https://github.com/Vibhashrestta)
