@@ -6,6 +6,8 @@ sudo add-apt-repository ppa:sumo/stable
 sudo apt-get update
 sudo apt-get install sumo sumo-tools sumo-doc
 ```
+or follow [https://sumo.dlr.de/docs/Downloads.php]
+
 To open Netedit, type ``` netedit``` in the terminal
 
 [https://sumo.dlr.de/docs/Tutorials/index.html]
